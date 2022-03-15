@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Ferreira 👋
+## Hi! I'm Matheus Ferreira 👋
 <div>
   <a href="https://github.com/flynof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flynof&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
