@@ -19,7 +19,6 @@
  ##  
   
  <div style="display: inline_block" align="center"> 
-  <a href="https://www.instagram.com/flynof/" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="noopener"></a>
   <a href = "https://mail.google.com/mail/u/0/#inbox" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener"></a>
   <a href="https://www.linkedin.com/in/matheus-ferreira-167baa230/" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener"></a> 
   <a href="https://github.com/flynof" rel="noopener"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&rel=noopener" rel="noopener"></a>
